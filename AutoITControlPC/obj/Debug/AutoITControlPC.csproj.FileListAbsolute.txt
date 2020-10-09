@@ -1,0 +1,12 @@
+C:\Users\dangp\source\repos\AutoITControlPC\AutoITControlPC\obj\Debug\AutoITControlPC.csprojAssemblyReference.cache
+C:\Users\dangp\source\repos\AutoITControlPC\AutoITControlPC\obj\Debug\AutoITControlPC.Form1.resources
+C:\Users\dangp\source\repos\AutoITControlPC\AutoITControlPC\obj\Debug\AutoITControlPC.Properties.Resources.resources
+C:\Users\dangp\source\repos\AutoITControlPC\AutoITControlPC\obj\Debug\AutoITControlPC.csproj.GenerateResource.cache
+C:\Users\dangp\source\repos\AutoITControlPC\AutoITControlPC\obj\Debug\AutoITControlPC.csproj.CoreCompileInputs.cache
+C:\Users\dangp\source\repos\AutoITControlPC\AutoITControlPC\bin\Debug\AutoITControlPC.exe.config
+C:\Users\dangp\source\repos\AutoITControlPC\AutoITControlPC\bin\Debug\AutoITControlPC.exe
+C:\Users\dangp\source\repos\AutoITControlPC\AutoITControlPC\bin\Debug\AutoITControlPC.pdb
+C:\Users\dangp\source\repos\AutoITControlPC\AutoITControlPC\obj\Debug\AutoITControlPC.csproj.CopyComplete
+C:\Users\dangp\source\repos\AutoITControlPC\AutoITControlPC\obj\Debug\AutoITControlPC.exe
+C:\Users\dangp\source\repos\AutoITControlPC\AutoITControlPC\obj\Debug\AutoITControlPC.pdb
+C:\Users\dangp\source\repos\AutoITControlPC\AutoITControlPC\bin\Debug\Emgu.CV.World.dll
